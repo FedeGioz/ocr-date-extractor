@@ -5,6 +5,6 @@ numpy
 opencv-python-headless
 matplotlib
 scikit-image
-Pillow
+Pillow==9.3.0
 dateparser
 gunicorn
